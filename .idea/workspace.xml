@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc5e9d98-33c1-49c3-9af5-060f715dfbd1" name="Changes" comment="Вносит имя наставника - правка замечания">
+      <change beforePath="$PROJECT_DIR$/project/src/pages/room-page/room-page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/pages/room-page/room-page.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="6ebe4b3f-327d-4a4a-89f9-29863521678d" />
+        <option name="url" value="git@github.com:AxlMonk/2049477-six-cities-11.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2GUb0b8aKrLwheWmZrHu4zTrkOE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Coremaster/Desktop/2049477-six-cities-11/project/public&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\Coremaster\\Desktop\\2049477-six-cities-11\\project\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Coremaster\Desktop\2049477-six-cities-11\project\public" />
+      <recent name="C:\Users\Coremaster\Desktop\2049477-six-cities-11\project" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Coremaster\Desktop\2049477-six-cities-11\project\public" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc5e9d98-33c1-49c3-9af5-060f715dfbd1" name="Changes" comment="" />
+      <created>1666445887969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666445887969</updated>
+      <workItem from="1666445890235" duration="202000" />
+      <workItem from="1666446103623" duration="3316000" />
+      <workItem from="1666452430940" duration="634000" />
+      <workItem from="1666523015505" duration="2415000" />
+      <workItem from="1666683938498" duration="17000" />
+      <workItem from="1666710952369" duration="2507000" />
+      <workItem from="1666720026811" duration="1378000" />
+      <workItem from="1666763489673" duration="2192000" />
+      <workItem from="1666970593110" duration="1205000" />
+      <workItem from="1667055444423" duration="1588000" />
+      <workItem from="1667120011686" duration="10238000" />
+      <workItem from="1667151265751" duration="6343000" />
+    </task>
+    <task id="LOCAL-00001" summary="Вносит имя наставника">
+      <created>1666446699068</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666446699068</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Вносит имя наставника">
+      <created>1666446775904</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666446775904</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Вносит имя наставника - внес правку по замечанию">
+      <created>1666450880676</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666450880676</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Вносит имя наставника - правка замечания">
+      <created>1666451144614</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666451144614</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Вносит имя наставника" />
+    <MESSAGE value="Вносит имя наставника - внес правку по замечанию" />
+    <MESSAGE value="Вносит имя наставника - правка замечания" />
+    <option name="LAST_COMMIT_MESSAGE" value="Вносит имя наставника - правка замечания" />
+  </component>
+</project>
