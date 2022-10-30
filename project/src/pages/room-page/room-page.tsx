@@ -3,7 +3,7 @@ function RoomPage(): JSX.Element {
     <html lang="en">
       <head>
         <meta charSet="utf-8" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>6 cities: property</title>
         <link rel="stylesheet" href="css/main.css" />
@@ -141,8 +141,7 @@ function RoomPage(): JSX.Element {
                     <h2 className="property__host-title">Meet the host</h2>
                     <div className="property__host-user user">
                       <div className="property__avatar-wrapper property__avatar-wrapper--pro user__avatar-wrapper">
-                        <img className="property__avatar user__avatar" src="img/avatar-angelina.jpg" width="74" height="74"
-                             alt="Host avatar" />
+                        <img className="property__avatar user__avatar" src="img/avatar-angelina.jpg" width="74" height="74" alt="Host avatar" />
                       </div>
                       <span className="property__user-name">
                         Angelina
@@ -168,8 +167,7 @@ function RoomPage(): JSX.Element {
                       <li className="reviews__item">
                         <div className="reviews__user user">
                           <div className="reviews__avatar-wrapper user__avatar-wrapper">
-                            <img className="reviews__avatar user__avatar" src="img/avatar-max.jpg" width="54" height="54"
-                                 alt="Reviews avatar" />
+                            <img className="reviews__avatar user__avatar" src="img/avatar-max.jpg" width="54" height="54" alt="Reviews avatar" />
                           </div>
                           <span className="reviews__user-name">
                             Max
@@ -193,8 +191,7 @@ function RoomPage(): JSX.Element {
                     <form className="reviews__form form" action="#" method="post">
                       <label className="reviews__label form__label" htmlFor="review">Your review</label>
                       <div className="reviews__rating-form form__rating">
-                        <input className="form__rating-input visually-hidden" name="rating" value="5" id="5-stars"
-                               type="radio" />
+                        <input className="form__rating-input visually-hidden" name="rating" value="5" id="5-stars" type="radio" />
                           <label htmlFor="5-stars" className="reviews__rating-label form__rating-label" title="perfect">
                             <svg className="form__star-image" width="37" height="33">
                               <use xlinkHref="#icon-star"></use>
@@ -209,24 +206,21 @@ function RoomPage(): JSX.Element {
                               </svg>
                             </label>
 
-                            <input className="form__rating-input visually-hidden" name="rating" value="3" id="3-stars"
-                                   type="radio" />
+                            <input className="form__rating-input visually-hidden" name="rating" value="3" id="3-stars" type="radio" />
                               <label htmlFor="3-stars" className="reviews__rating-label form__rating-label" title="not bad">
                                 <svg className="form__star-image" width="37" height="33">
                                   <use xlinkHref="#icon-star"></use>
                                 </svg>
                               </label>
 
-                              <input className="form__rating-input visually-hidden" name="rating" value="2" id="2-stars"
-                                     type="radio" />
+                              <input className="form__rating-input visually-hidden" name="rating" value="2" id="2-stars" type="radio" />
                                 <label htmlFor="2-stars" className="reviews__rating-label form__rating-label" title="badly">
                                   <svg className="form__star-image" width="37" height="33">
                                     <use xlinkHref="#icon-star"></use>
                                   </svg>
                                 </label>
 
-                                <input className="form__rating-input visually-hidden" name="rating" value="1" id="1-star"
-                                       type="radio" />
+                                <input className="form__rating-input visually-hidden" name="rating" value="1" id="1-star" type="radio" />
                                   <label htmlFor="1-star" className="reviews__rating-label form__rating-label"
                                          title="terribly">
                                     <svg className="form__star-image" width="37" height="33">
@@ -363,3 +357,5 @@ function RoomPage(): JSX.Element {
     </html>
   );
 }
+
+export default RoomPage;
