@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc5e9d98-33c1-49c3-9af5-060f715dfbd1" name="Changes" comment="Вносит имя наставника - правка замечания">
-      <change beforePath="$PROJECT_DIR$/project/src/pages/room-page/room-page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/pages/room-page/room-page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +77,7 @@
       <workItem from="1667120011686" duration="10238000" />
       <workItem from="1667151265751" duration="6965000" />
       <workItem from="1667399982113" duration="679000" />
-      <workItem from="1667578864716" duration="470000" />
+      <workItem from="1667578864716" duration="1173000" />
     </task>
     <task id="LOCAL-00001" summary="Вносит имя наставника">
       <created>1666446699068</created>
